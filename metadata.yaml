@@ -1,0 +1,25 @@
+_repo: Surfing-the-Internet--An-Introduction--13-Version-2.0.2_49
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Polly, Jean Armour
+    gutenberg_agent_id: '38'
+    url: http://www.gutenberg.org/2009/agents/38
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Armour_Polly
+description: ''
+gutenberg_issued: '1993-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Electronic mail systems -- Directories'
+- !lcc 'TK'
+- !lcsh 'Computer network resources -- Directories'
+- !lcsh 'Internet addresses -- Directories'
+- GITenberg
+title: "Surfing the Internet: An Introduction\r\nVersion 2.0.2"
+url: http://www.gutenberg.org/ebooks/49
