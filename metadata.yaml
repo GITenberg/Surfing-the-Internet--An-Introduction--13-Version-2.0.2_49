@@ -1,5 +1,8 @@
 _repo: Surfing-the-Internet--An-Introduction--13-Version-2.0.2_49
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Polly, Jean Armour
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38
     wikipedia: http://en.wikipedia.org/wiki/Jean_Armour_Polly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49#Surfing-the-Internet--An-Introduction--13-Version-2.0.2
 gutenberg_issued: '1993-01-01'
 gutenberg_type: Text
 identifiers:
